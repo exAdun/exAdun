@@ -10,9 +10,11 @@
 
 -----
 
-### :hammer_and_wrench: My languages and Tools :
-
-<div style="text-align: center;">
+<div>
+  <samp>
+    <h2 align="center">:hammer_and_wrench: My tools: </h2>
+    <p align="center">
+ style="text-align: center;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
@@ -27,12 +29,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+      </p>
+  </samp>
 </div>
 
 
 <div>
   <samp>
-    <h2 align="center">Contact me here:</h2>
+    <h2 align="center"> :email: Contact me here:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/ohnkyungmin/" target="blank"><img align="center"
