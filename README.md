@@ -82,8 +82,8 @@
           </a>
        </p>
      <br>
-     </samp>
-    
+  </samp>
+  </div>
 </details>
 
 <div>
