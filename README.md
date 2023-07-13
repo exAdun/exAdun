@@ -31,7 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="70" height="70"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="70" height="70"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="70" height="70"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="70" height="70"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="70" height="70"/>
     </p>
   </samp>
 </div>
@@ -47,10 +47,16 @@
       <a href="mailto:ohnkyungmin@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="exAdun" height="30"/></a>
+      <a href="https://www.kaggle.com/kyungminohn" target="blank"><img align="center"
+         src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"
+         alt="exAdun" height="30"/></a>       	
     </p>
     <p align="center">
       <a href="https://instagram.com/exAdun" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="exAdun" height="30"/></a>
+      <a href="https://t.me/exadun" target="blank"><img align="center"
+         src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
          alt="exAdun" height="30"/></a>
       <br>
     </p>
@@ -94,7 +100,7 @@
 
 ----
 <div>
-  <a href="github.com/exAdun"><img align="right"
+  <a href="github.com/exAdun"><img align="center"
     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="30"
     alt="works on my machine" /></a>
 </div>
