@@ -89,6 +89,5 @@
 <div>
   <a href="github.com/exAdun"><img align="center"
     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="30"
-    alt="works on my machine" /></a><br>
-  Credits: [exAdun](https://github.com/exAdun)
+    alt="works on my machine" /></a>
 </div>
