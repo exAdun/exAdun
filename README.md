@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello <img width="35" src="https://github.com/exAdun/exAdun/blob/main/resources/img/wave.gif">, I'm KyungMin Ohn</h1>
-<h4 align="center">Data Scientist located in Madrid. Want to know more? Take a look at my <a href="https://github.com/exAdun/exAdun/blob/main/resources/CV/KMO-CV_EN.pdf" target="_blank">resume</a> for more.</h4>
+<h4 align="center">Data Scientist located in Madrid. <br> Want to know more? Take a look at my resume (<a href="https://github.com/exAdun/exAdun/blob/main/resources/CV/KMO-CV_EN.pdf" target="_blank">EN</a> / <a href="https://github.com/exAdun/exAdun/blob/main/resources/CV/KMO-CV_ES.pdf" target="_blank">ES</a>) for more.</h4>
 </div>
 
 <div align="center">
@@ -10,10 +10,10 @@
 
 -----
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ Contact me</summary>
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
+    <h2 align="center">You can reach here:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/ohnkyungmin/" target="blank"><img align="center"
@@ -33,7 +33,7 @@
 </div>
 </details>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: My languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
@@ -50,9 +50,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" **alt="Flask" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" **alt="SQLite" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
 
