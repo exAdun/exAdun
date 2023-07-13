@@ -90,5 +90,5 @@
   <a href="github.com/exAdun"><img align="center"
     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="30"
     alt="works on my machine" /></a><br>
-  Credits: [exAdun](https://github.com/exAdun)<br>Last Edited on: 13/07/2023
+  Credits: [exAdun](https://github.com/exAdun)
 </div>
