@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello <img width="35" src="https://github.com/exAdun/exAdun/blob/main/resources/img/wave.gif">, I'm KyungMin Ohn</h1>
-<h4 align="center">Data Scientist located in Madrid. <br> Want to know more? Take a look at my resume (<a href="https://github.com/exAdun/exAdun/blob/main/resources/CV/KMO-CV_EN.pdf" target="_blank">EN</a> / <a href="https://github.com/exAdun/exAdun/blob/main/resources/CV/KMO-CV_ES.pdf" target="_blank">ES</a>) for more.</h4>
+<h4 align="center">Data Scientist located in Madrid. <br> Want to know more? Take a look at my resume (<a href="https://github.com/exAdun/exAdun/blob/main/resources/CV/KMO-CV_EN.pdf" target="_blank">EN</a> / <a href="https://github.com/exAdun/exAdun/blob/main/resources/CV/KMO-CV_ES.pdf" target="_blank">ES</a>).</h4>
 </div>
 
 <div align="center">
@@ -9,29 +9,6 @@
 </div>
 
 -----
-<details>
-  <summary>☎️ Contact me</summary>
-<div>
-  <samp>
-    <h2 align="center">You can reach here:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/ohnkyungmin/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="exAdun" height="30"/></a>
-      <a href="mailto:ohnkyungmin@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="exAdun" height="30"/></a>
-    </p>
-    <p align="center">
-      <a href="https://instagram.com/exAdun" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="exAdun" height="30"/></a>
-      <br>
-    </p>
-  </samp>
-</div>
-</details>
 
 ### :hammer_and_wrench: My languages and Tools :
 
@@ -52,7 +29,67 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<details>
+  <summary>☎️ Contact me</summary>
+<div>
+  <samp>
+    <h2 align="center">You can reach me here:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/ohnkyungmin/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="exAdun" height="30"/></a>
+      <a href="mailto:ohnkyungmin@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="exAdun" height="30"/></a>
+    </p>
+    <p align="center">
+      <a href="https://instagram.com/exAdun" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="exAdun" height="30"/></a>
+      <br>
+    </p>
+  </samp>
+</div>
+</details>
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+  <samp>
+    <h2 align="center"> Github stats </h2>
+      <br/>
+    <details open>
+  <summary><h3>Languages</h3></summary>
+            <p align="center">
+        <a href="https://github.com/1999AZZAR/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: overall Top Langs " /></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by commit" />
+          </a>
+        </p>
+</details>
+    <details open>
+  <summary><h3>stasistic</h3></summary>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+     </samp>
+  </div>    
+</details>
 
 -----
-Credits: [exAdun](https://github.com/exAdun)
-Last Edited on: 13/07/2023
+<a href="github.com/exAdun"><img align="center"
+  src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
+  alt="works on my machine" /></a>
+Credits: [exAdun](https://github.com/exAdun)<br>Last Edited on: 13/07/2023
