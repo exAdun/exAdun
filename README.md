@@ -1,10 +1,10 @@
 <div align="center">
-<h1 align="center">Hello <img width="35" src="https://github.com/exAdun/exAdun/main/resources/img/wave.gif">, I'm KyungMin Ohn</h1>
-<h4 align="center">Data Scientist located in Madrid. Want to know more? Take a look at my <a href="https://github.com/exAdun/exAdun/main/resources/CV/KMO-CV_EN.pdf" target="_blank">resume</a> for more.</h4>
+<h1 align="center">Hello <img width="35" src="https://github.com/exAdun/exAdun/blob/main/resources/img/wave.gif">, I'm KyungMin Ohn</h1>
+<h4 align="center">Data Scientist located in Madrid. Want to know more? Take a look at my <a href="https://github.com/exAdun/exAdun/blob/main/resources/CV/KMO-CV_EN.pdf" target="_blank">resume</a> for more.</h4>
 </div>
 
 <div align="center">
-  <img  src="https://github.com/exAdun/exAdun/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/exAdun/exAdun/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
