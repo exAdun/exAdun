@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hello <img width="35" src="https://github.com/exAdun/exAdun/blob/main/resources/img/wave.gif">, I'm KyungMin Ohn</h1>
-<h4 align="center">a Data Scientist located in Madrid. Want to know more? Take a look at my <a href="https://github.com/exAdun/exAdun/main/resources/KMO-CV_EN.pdf" target="_blank">resume</a> for more.</h4>
+<h1 align="center">Hello <img width="35" src="https://github.com/exAdun/exAdun/resources/img/wave.gif">, I'm KyungMin Ohn</h1>
+<h4 align="center">I'm a Data Scientist located in Madrid. Want to know more? Take a look at my <a href="https://github.com/exAdun/exAdun/main/resources/KMO-CV_EN.pdf" target="_blank">resume</a> for more.</h4>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ohnkyungmin/">
-  <img  src="https://github.com/exAdun/exAdun/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/exAdun/exAdun/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
