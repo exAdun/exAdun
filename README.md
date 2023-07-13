@@ -29,11 +29,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<details>
-  <summary>☎️ Contact me</summary>
 <div>
   <samp>
-    <h2 align="center">You can reach me here:</h2>
+    <h2 align="center">Contact me here:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/ohnkyungmin/" target="blank"><img align="center"
@@ -51,7 +49,6 @@
     </p>
   </samp>
 </div>
-</details>
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
