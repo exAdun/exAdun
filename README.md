@@ -1,11 +1,11 @@
 <div align="center">
 <h1 align="center">Hello <img width="35" src="https://github.com/exAdun/exAdun/blob/main/resources/img/wave.gif">, I'm KyungMin Ohn</h1>
-<h4 align="center">a Data Scientist located in Madrid. Want to know more? Take a look at my <a href="https://github.com/exAdun/exAdun/blob/main/resources/KMO-CV_EN.pdf" target="_blank">resume</a> for more.</h4>
+<h4 align="center">a Data Scientist located in Madrid. Want to know more? Take a look at my <a href="https://github.com/exAdun/exAdun/main/resources/KMO-CV_EN.pdf" target="_blank">resume</a> for more.</h4>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ohnkyungmin/">
-  <img  src="https://github.com/exAdun/exAdun/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/exAdun/exAdun/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -55,6 +55,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+
 
 -----
 Credits: [exAdun](https://github.com/exAdun)
